@@ -2,9 +2,9 @@
 
 **I'm passionate about opensource and want to become a Full Stack Developer.**
 
-# Project Name : E-commerce Home Page !
+# Project Name : Web design landing Page !
 
-In this project i have created a landing page from scratch. And i have learnt a lot of things like how to position HTML elements using common CSS selectors,i have also learnt about positions mainly in this project.
+In this project i have created a Web design landing page from scratch. And i have learnt a lot of things like how to position HTML elements using common CSS selectors,i have also learnt about positions mainly in this project.
 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![positions](https://img.shields.io/badge/-CSS%20positions-blue)

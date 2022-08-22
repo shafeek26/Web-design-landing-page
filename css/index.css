@@ -106,3 +106,52 @@ nav img {
   right: 8rem;
   width: 15px;
 }
+
+
+.fa-bars{
+  display: none;
+  font-size: 30px;
+}
+.intro-img-2{
+  display: none;
+  width: 300px;
+}
+.mobile-screen{
+  
+}
+
+
+/* media querries goes here */
+
+@media screen and (max-width:768px) {
+  .nav-items{
+    display: none;
+  }
+  .signin-btn{
+    display: none;
+  }
+  .fa-bars{
+    display: block;
+  }
+  .intro-section{
+    flex-direction: column-reverse;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+  }
+  .imgs-div{
+    display: none;
+  }
+  .intro-img-2{
+    display: block;
+  }
+  .mobile-screen{
+    width: 100%;
+    max-width: 80%;
+    background: linear-gradient(90deg, #c8b9e8, #e2b5bc);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+  }
+}
